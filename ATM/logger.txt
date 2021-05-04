@@ -1,0 +1,27 @@
+Valid Visualization Operation
+Cristi has a current sold of 200EUR
+User Cristi performed a sold visualization.
+Valid Retrieval Operation
+Cristi retrieved 50EUR
+User Cristi performed a sold retrieval.
+Valid Visualization Operation
+Cristi has a current sold of 150EUR
+User Cristi performed a sold visualization.
+Cristi tried to retrieve more money than the available sold!
+Valid Visualization Operation
+Cristi has a current sold of 150EUR
+User Cristi performed a sold visualization.
+Valid Deposit Operation
+Cristi deposited 10EUR
+User Cristi performed a sold deposit.
+Valid Visualization Operation
+Cristi has a current sold of 160EUR
+User Cristi performed a sold visualization.
+Cristi tried to deposit a negative amount of money!
+Valid Visualization Operation
+Cristi has a current sold of 160EUR
+User Cristi performed a sold visualization.
+Cristi changed the currency to ron
+Valid Visualization Operation
+Cristi has a current sold of 796RON
+User Cristi performed a sold visualization.
